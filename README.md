@@ -1,6 +1,6 @@
 # Art-Valuation-Appraisal-Machine-Learning
 
-ECEN 403-903 - Team <07> Art Valuation AI Resources. 
+ECEN 403/404-903 - Team <07> Art Valuation AI Resources. 
 
 This repository includes a list of files used to learn about Convolutional Nueral Networks and Classification/Regression. 
 
